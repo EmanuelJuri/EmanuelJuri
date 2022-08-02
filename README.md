@@ -4,7 +4,10 @@
 
 Ingeniero electromecánico incursionando en el apasionante mundo de la programación como FullStack Developer.<br>
 Me agradan los grandes desafíos y los emprendo con pasión, compromiso y determinación.<br>
-Estoy interesado en el desarrollo web 🖥️ y moblie 📱 , tanto desde el lado de Front-end como del Back-end.
+Estoy interesado en el desarrollo web 🖥️ y moblie 📱 , tanto desde el lado de Front-end como del Back-end.<br>
+<div align="center" >
+      <img align="center" src="https://user-images.githubusercontent.com/76783198/182483558-499ad227-69c3-4323-b4f5-abab4942dade.gif" width="330" height="225"  />
+</div> 
 
 ## Lenguajes y herramientas
 ![langujes&tools](https://user-images.githubusercontent.com/76783198/182465347-06d45139-1931-4a88-b81a-a6861070c02a.svg)
@@ -26,10 +29,18 @@ Aplicación compilada
 
 ### Henry Dogs
 
-📫 Para contactarme 
+## 📫 Para contactarme 
+
+<p>
+    <a href="emanueljuri@gmail.com">
+      <img align="center" src="https://user-images.githubusercontent.com/76783198/182482940-c4a2a044-de93-4450-b354-9628cbb175c9.svg"/>
+      emanueljuri@gmail.com
+    </a>    
+    <br>
+    <a href="https://www.linkedin.com/in/emanuel-juri/">
+      <img align="center" src="https://user-images.githubusercontent.com/76783198/182481396-19c89e94-f3ba-4e33-9df4-f5b7a094cf8f.svg"/>
+      Emanuel Juri
+    </a>
+<p/>
 
 
-
-
-
-https://www.linkedin.com/in/emanuel-juri?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BRgFLTzPMQuS7VzeNUd1xtw%3D%3D
