@@ -13,7 +13,7 @@ Estoy interesado en el desarrollo web 🖥️ y moblie 📱 , tanto desde el lad
 ![langujes&tools](https://user-images.githubusercontent.com/76783198/182465347-06d45139-1931-4a88-b81a-a6861070c02a.svg)
 
 ## 📌 Mis Proyectos
-### Henry Bank
+### Henry Bank :dollar: :credit_card: :chart:
 Henry Bank, es una billetera virtual en formato mobile (apk) desarrollada en React Native.
 Nace como proyecto grupal integrador para poner en practica todas las habilidades adquiridas en el bootcamp Henry.
 En este gran proyecto me desempeñe como Frontend developer y líder técnico de finanzas, trabajamos mediante la metodología SCRUM con las siguientes tecnologías:<br>
@@ -27,7 +27,15 @@ Aplicación compilada
 ![HB](https://user-images.githubusercontent.com/76783198/182479399-555929e3-7261-4e4f-b950-e08521bcfa66.png)
 
 
-### Henry Dogs
+### Henry Dogs :dog: :service_dog: :dog2:
+Single-page application enfocada en las razas de perros de todo el mundo.<br>
+Desarrolle íntegramente esta aplicación tanto frontend como backend, con las siguientes tecnologías:<br>
+Javascript | HTML | CSS | React | Redux | Node | Sequelize | PostgreSQL<br>
+
+<div align="row" >
+      <img src="https://user-images.githubusercontent.com/76783198/182487475-50d695a9-b2c2-4ec8-aae7-8b31b075078d.png" width="333" height="240"  />
+      <img src="https://user-images.githubusercontent.com/76783198/182487482-95b73e84-47b1-4349-9283-ee54c44139a4.png" width="390" height="240"  />
+</div> 
 
 ## 📫 Para contactarme 
 
