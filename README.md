@@ -1,6 +1,6 @@
 ![portada](https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif)
 
-# **Hola, Soy [Emanuel Juri](linkedin.com/in/emanuel-juri)** <img width="45" src="https://user-images.githubusercontent.com/76783198/182454378-115c3a2e-50cc-490e-85f0-fbdfab7f36ba.gif" alt="holis">
+# **Hola, Soy [Emanuel Juri](https://www.linkedin.com/in/emanuel-juri/)** <img width="45" src="https://user-images.githubusercontent.com/76783198/182454378-115c3a2e-50cc-490e-85f0-fbdfab7f36ba.gif" alt="holis">
 
 Ingeniero electromecánico incursionando en el apasionante mundo de la programación como FullStack Developer.<br>
 Me agradan los grandes desafíos y los emprendo con pasión, compromiso y determinación.<br>
@@ -40,7 +40,7 @@ Javascript | HTML | CSS | React | Redux | Node | Sequelize | PostgreSQL<br>
 ## 📫 Para contactarme 
 
 <p>
-    <a href="emanueljuri@gmail.com">
+    <a href="https://emanueljuri@gmail.com">
       <img align="center" src="https://user-images.githubusercontent.com/76783198/182482940-c4a2a044-de93-4450-b354-9628cbb175c9.svg"/>
       emanueljuri@gmail.com
     </a>    
