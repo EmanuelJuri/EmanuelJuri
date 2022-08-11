@@ -43,8 +43,9 @@ Javascript | HTML | CSS | React | Redux | Node | Sequelize | PostgreSQL<br>
 </a>
 </br>
 <div align="row" >
-      <img src="https://user-images.githubusercontent.com/76783198/182487475-50d695a9-b2c2-4ec8-aae7-8b31b075078d.png" width="333" height="240"  />
-      <img src="https://user-images.githubusercontent.com/76783198/182487482-95b73e84-47b1-4349-9283-ee54c44139a4.png" width="390" height="240"  />
+      <img src="https://user-images.githubusercontent.com/76783198/184225708-ec32d617-f459-4de8-84ed-c7f80298e0b7.png" width="333" height="240"  />
+      <img src="https://user-images.githubusercontent.com/76783198/184225656-63eb4e40-4881-48eb-bd86-c027602173a5.png" width="333" height="240"  />
+      <img src="https://user-images.githubusercontent.com/76783198/184225936-7c59268c-39cf-41ad-8814-7c812aebb098.png" width="333" height="240"  />
 </div>
 
 ## 📫 Para contactarme 
