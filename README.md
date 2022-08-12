@@ -20,6 +20,9 @@ En este gran proyecto me desempeñe como Frontend developer y líder técnico de
 Javascript | React Native | CSS | Redux | Node | Sequelize | PostgreSQL | Git Hub | Figma | Trello
 
 Maquetado y prototipado en FIGMA
+<!-- ![Group 7](https://user-images.githubusercontent.com/76783198/184268606-e727df34-1c68-41cb-b835-ea2617bf07bf.png) -->
+<img src="https://user-images.githubusercontent.com/76783198/184268606-e727df34-1c68-41cb-b835-ea2617bf07bf.png" width="50%" height="50%"  />
+
 ![figma](https://user-images.githubusercontent.com/76783198/182469139-32ef23d0-b7a2-4592-bd67-71571cdeae13.svg)
 
 Aplicación compilada
