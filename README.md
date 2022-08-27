@@ -51,6 +51,22 @@ Javascript | HTML | CSS | React | Redux | Node | Sequelize | PostgreSQL<br>
       <img src="https://user-images.githubusercontent.com/76783198/184225936-7c59268c-39cf-41ad-8814-7c812aebb098.png" width="333" height="205"  />
 </div>
 
+### Weather App :thermometer: :sun_with_face: :cloud_with_snow: :cloud_with_lightning: :rainbow:
+The Weather App, es una spa construida con React, que permite obtener el pronóstico del tiempo de cualquier ciudad..<br>
+Desarrolle esta aplicación, con las siguientes tecnologías:<br>
+Javascript | HTML | CSS | React | Redux <br>
+
+<a href="https://weather-app-emanueljuri.vercel.app/" fontSize="34">
+      <img align="center" src="https://user-images.githubusercontent.com/76783198/183678369-e773f0f2-6f7b-4921-acac-36155eae3322.svg" width="30" height="30"/>
+      Weather App Deploy
+</a>
+</br></br>
+<a href="https://github.com/EmanuelJuri/Weather-App.git">
+      <img align="center" src="https://user-images.githubusercontent.com/76783198/183681387-b4432771-313b-4527-a157-75786233b3b0.svg" width="25" height="25"/>
+      Link a repo
+</a>
+</br><img src="https://user-images.githubusercontent.com/76783198/187048550-ab336e90-d3bb-4806-9c57-dcfa1b23df3c.png" width="75%" height="75%" />
+
 ## 📫 Para contactarme 
 
 <p>
